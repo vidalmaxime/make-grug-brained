@@ -54,12 +54,12 @@ Chrome extension that transforms any webpage text into [grug-brained style](http
 
 ## Installation
 
-1. Get a Gemini API key from Google AI Studio at https://aistudio.google.com/app/apikey
-2. Clone this repository or download the files
-3. Open Chrome and navigate to chrome://extensions/
-4. Enable Developer mode in the top right corner
-5. Click Load unpacked and select the project folder
-6. The extension icon will appear in your browser toolbar
+1. Clone this repository or download the files
+2. Open Chrome and navigate to chrome://extensions/
+3. Enable Developer mode in the top right corner
+4. Click Load unpacked and select the project folder
+5. The extension icon will appear in your browser toolbar
+6. Click on it, get a Gemini API key from Google AI Studio through the link and you're all set
 
 ## Setup
 
