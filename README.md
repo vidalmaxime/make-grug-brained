@@ -25,15 +25,13 @@ page now speak grug<br>
 
 automatic big word detector<br>
 complexity remover<br>
-add occasional grug grunt<br>
-make everything about rock and club<br>
+occasional grug grunt<br>
 
 ## why use:
 
 brain hurt less<br>
 understand more<br>
 laugh sometimes<br>
-remember grug way is best way<br>
 
 ### grug warn:
 
@@ -113,4 +111,4 @@ MIT License - free to use and modify.
 
 ## Credits
 
-Thanks to Carson Gross (https://grugbrain.dev/) and Sam Rodrigues (https://www.sam-rodriques.com/post/the-grugbrained-ceo) for the inspiration!
+Thanks to Carson Gross (https://grugbrain.dev/) and Sam Rodriques (https://www.sam-rodriques.com/post/the-grugbrained-ceo) for the inspiration!
