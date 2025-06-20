@@ -1,5 +1,47 @@
 ![Grug Brained Banner](images/banner-grug-brained.png)
 
+# For grugs:
+
+## what make grug brained do
+
+take fancy complex page <br>
+make simple like grug brain <br>
+remove big word complexity <br>
+add grug wisdom <br>
+
+## how work
+
+you point at page<br>
+grug magic happen<br>
+page now speak grug<br>
+
+## example transform
+
+"utilizing sophisticated methodologies" become "use simple way"<br>
+"enterprise-grade solution" become "thing that work good"<br>
+"leveraging synergies" become "work together"<br>
+
+## grug transformer features:
+
+automatic big word detector<br>
+complexity remover<br>
+add occasional grug grunt<br>
+make everything about rock and club<br>
+
+## why use:
+
+brain hurt less<br>
+understand more<br>
+laugh sometimes<br>
+remember grug way is best way<br>
+
+### grug warn:
+
+some page resist grug transform. bank page and government page have strong complexity demon. but grug transformer try anyway.
+install make grug brained, make whole internet speak like grug. world become simpler place. grug happy.
+
+# For big brains:
+
 Chrome extension that transforms any webpage text into [grug-brained style](https://grugbrain.dev/) using the Gemini API.
 
 ## Features
