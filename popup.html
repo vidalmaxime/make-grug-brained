@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div class="logo">
+          <img src="images/caveman_bat.png" alt="Grug Bat" class="logo-image" />
+        </div>
+        <div class="title">
+          <h1>make grug brained</h1>
+          <span class="subtitle">simple word for grug</span>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="toggleBtn" class="toggle-btn">
+          <span id="toggleText">make page for grug</span>
+        </button>
+      </div>
+
+      <div class="page-info" id="pageInfo">
+        <div class="page-title" id="pageTitle">Loading...</div>
+        <div class="page-url" id="pageUrl">Loading...</div>
+      </div>
+
+      <div class="api-section" id="apiSection">
+        <div class="api-header" id="apiHeader">
+          <div class="api-status">
+            <span class="checkmark-icon" id="checkmarkIcon" style="display: none;">
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <circle cx="10" cy="10" r="10" fill="#D1FAE5"/>
+                <path d="M6 10L9 13L14 7" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </span>
+            <span class="api-label-text" id="apiLabelText">gemini api key</span>
+          </div>
+        </div>
+        <div class="api-content" id="apiContent">
+          <div class="api-input-group">
+            <input
+              type="password"
+              id="apiKey"
+              placeholder="enter key here..."
+              class="api-input"
+            />
+            <button id="saveApiKey" class="save-btn">save</button>
+          </div>
+          <div class="api-help">
+            <a href="https://aistudio.google.com/app/apikey" target="_blank">
+              get key from google
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
